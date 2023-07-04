@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilyas</h1>
 <h3 align="center">Programming has become part of my life</h3>
 <img src="https://semidotinfotech.com/blog/wp-content/uploads/2022/12/best-web-development-tools-semidot-infotech.png" alt="Developer">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ilyas1&label=Profile%20views&color=0e75b6&style=flat" alt="m-ilyas1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
